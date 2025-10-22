@@ -1,0 +1,350 @@
+{
+  "dir_folder_2": {
+    "name": "folder_2",
+    "type": "folder",
+    "size": 4096,
+    "modif_date": "2025-10-21 14:56:21",
+    "dir_folder_2_1": {
+      "name": "folder_2_1",
+      "type": "folder",
+      "size": 4096,
+      "modif_date": "2025-10-21 14:53:28"
+    }
+  },
+  "zip_zip_test.zip.zip": {
+    "name": "zip_test.zip.zip",
+    "type": "zip",
+    "size": 1198,
+    "modif_date": "2025-10-21 20:24:57",
+    "dir_folder_2": {
+      "name": "folder_2",
+      "type": "folder",
+      "size": 0,
+      "modif_date": "2025-10-21 14:56:22",
+      "dir_folder_2_1": {
+        "name": "folder_2_1",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:53:30",
+        "zip_zip_folder_1.zip": {
+          "name": "zip_folder_1.zip",
+          "type": "zip",
+          "size": 1139,
+          "modif_date": "2025-10-21 15:34:42",
+          "dir_folder_1": {
+            "name": "folder_1",
+            "type": "folder",
+            "size": 0,
+            "modif_date": "2025-10-21 14:55:34",
+            "fol_file_1_1": {
+              "name": "file_1_1",
+              "type": "file",
+              "size": 0,
+              "modif_date": "2025-10-21 14:54:14"
+            },
+            "dir_folder_1_1": {
+              "name": "folder_1_1",
+              "type": "folder",
+              "size": 0,
+              "modif_date": "2025-10-21 14:53:54",
+              "fol_file_1_1_1": {
+                "name": "file_1_1_1",
+                "type": "file",
+                "size": 35,
+                "modif_date": "2025-10-21 15:21:06"
+              },
+              "fol_file_1_1_2": {
+                "name": "file_1_1_2",
+                "type": "file",
+                "size": 0,
+                "modif_date": "2025-10-21 14:53:54"
+              }
+            },
+            "dir_folder_1_2": {
+              "name": "folder_1_2",
+              "type": "folder",
+              "size": 0,
+              "modif_date": "2025-10-21 14:54:04",
+              "fol_file_1_2_1": {
+                "name": "file_1_2_1",
+                "type": "file",
+                "size": 0,
+                "modif_date": "2025-10-21 14:54:04"
+              }
+            }
+          }
+        }
+      }
+    },
+    "zip_zip_folder_1.zip": {
+      "name": "zip_folder_1.zip",
+      "type": "zip",
+      "size": 1139,
+      "modif_date": "2025-10-21 15:34:42",
+      "dir_folder_1": {
+        "name": "folder_1",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:55:34",
+        "fol_file_1_1": {
+          "name": "file_1_1",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:14"
+        },
+        "dir_folder_1_1": {
+          "name": "folder_1_1",
+          "type": "folder",
+          "size": 0,
+          "modif_date": "2025-10-21 14:53:54",
+          "fol_file_1_1_1": {
+            "name": "file_1_1_1",
+            "type": "file",
+            "size": 35,
+            "modif_date": "2025-10-21 15:21:06"
+          },
+          "fol_file_1_1_2": {
+            "name": "file_1_1_2",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:53:54"
+          }
+        },
+        "dir_folder_1_2": {
+          "name": "folder_1_2",
+          "type": "folder",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:04",
+          "fol_file_1_2_1": {
+            "name": "file_1_2_1",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:54:04"
+          }
+        }
+      }
+    }
+  },
+  "zip_zip_folder_1.zip": {
+    "name": "zip_folder_1.zip",
+    "type": "zip",
+    "size": 1139,
+    "modif_date": "2025-10-21 15:34:41",
+    "dir_folder_1": {
+      "name": "folder_1",
+      "type": "folder",
+      "size": 0,
+      "modif_date": "2025-10-21 14:55:34",
+      "fol_file_1_1": {
+        "name": "file_1_1",
+        "type": "file",
+        "size": 0,
+        "modif_date": "2025-10-21 14:54:14"
+      },
+      "dir_folder_1_1": {
+        "name": "folder_1_1",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:53:54",
+        "fol_file_1_1_1": {
+          "name": "file_1_1_1",
+          "type": "file",
+          "size": 35,
+          "modif_date": "2025-10-21 15:21:06"
+        },
+        "fol_file_1_1_2": {
+          "name": "file_1_1_2",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:53:54"
+        }
+      },
+      "dir_folder_1_2": {
+        "name": "folder_1_2",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:54:04",
+        "fol_file_1_2_1": {
+          "name": "file_1_2_1",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:04"
+        }
+      }
+    }
+  },
+  "dir_folder_1": {
+    "name": "folder_1",
+    "type": "folder",
+    "size": 4096,
+    "modif_date": "2025-10-21 21:29:44",
+    "dir_folder_1_1": {
+      "name": "folder_1_1",
+      "type": "folder",
+      "size": 4096,
+      "modif_date": "2025-10-22 10:29:20",
+      "dir_folder_1_2": {
+        "name": "folder_1_2",
+        "type": "folder",
+        "size": 4096,
+        "modif_date": "2025-10-21 14:54:03",
+        "fol_file_1_2_1": {
+          "name": "file_1_2_1",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:03"
+        }
+      },
+      "fol_file_1_1_1": {
+        "name": "file_1_1_1",
+        "type": "file",
+        "size": 35,
+        "modif_date": "2025-10-21 15:21:04"
+      },
+      "fol_file_1_1_2": {
+        "name": "file_1_1_2",
+        "type": "file",
+        "size": 0,
+        "modif_date": "2025-10-21 14:53:52"
+      }
+    },
+    "fol_file_1_1": {
+      "name": "file_1_1",
+      "type": "file",
+      "size": 0,
+      "modif_date": "2025-10-21 14:54:12"
+    },
+    "dir_folder_1_2": {
+      "name": "folder_1_2",
+      "type": "folder",
+      "size": 4096,
+      "modif_date": "2025-10-22 10:48:55",
+      "fol_file_1_2_1": {
+        "name": "file_1_2_1",
+        "type": "file",
+        "size": 0,
+        "modif_date": "2025-10-21 14:54:03"
+      },
+      "zip_folder.zip": {
+        "name": "folder.zip",
+        "type": "zip",
+        "size": 1456,
+        "modif_date": "2025-10-21 21:29:44",
+        "dir_folder_1_1": {
+          "name": "folder_1_1",
+          "type": "folder",
+          "size": 0,
+          "modif_date": "2025-10-21 14:53:54",
+          "fol_file_1_1_2": {
+            "name": "file_1_1_2",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:53:54"
+          },
+          "fol_file_1_2_1": {
+            "name": "file_1_2_1",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:54:04"
+          },
+          "dir_folder_1_1": {
+            "name": "folder_1_1",
+            "type": "folder",
+            "size": 0,
+            "modif_date": "2025-10-21 21:07:36",
+            "fol_file_1_1_1": {
+              "name": "file_1_1_1",
+              "type": "file",
+              "size": 35,
+              "modif_date": "2025-10-21 15:21:06"
+            },
+            "fol_file_1_1_2": {
+              "name": "file_1_1_2",
+              "type": "file",
+              "size": 0,
+              "modif_date": "2025-10-21 14:53:54"
+            }
+          },
+          "fol_folder_1_1": {
+            "name": "folder_1_1",
+            "type": "file",
+            "size": 35,
+            "modif_date": "2025-10-21 15:21:06"
+          }
+        },
+        "dir_folder_1_2": {
+          "name": "folder_1_2",
+          "type": "folder",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:04",
+          "fol_file_1_2_1": {
+            "name": "file_1_2_1",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:54:04"
+          }
+        }
+      }
+    },
+    "zip_folder.zip": {
+      "name": "folder.zip",
+      "type": "zip",
+      "size": 1456,
+      "modif_date": "2025-10-21 21:29:44",
+      "dir_folder_1_1": {
+        "name": "folder_1_1",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:53:54",
+        "fol_file_1_1_2": {
+          "name": "file_1_1_2",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:53:54"
+        },
+        "fol_file_1_2_1": {
+          "name": "file_1_2_1",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:04"
+        },
+        "dir_folder_1_1": {
+          "name": "folder_1_1",
+          "type": "folder",
+          "size": 0,
+          "modif_date": "2025-10-21 21:07:36",
+          "fol_file_1_1_1": {
+            "name": "file_1_1_1",
+            "type": "file",
+            "size": 35,
+            "modif_date": "2025-10-21 15:21:06"
+          },
+          "fol_file_1_1_2": {
+            "name": "file_1_1_2",
+            "type": "file",
+            "size": 0,
+            "modif_date": "2025-10-21 14:53:54"
+          }
+        },
+        "fol_folder_1_1": {
+          "name": "folder_1_1",
+          "type": "file",
+          "size": 35,
+          "modif_date": "2025-10-21 15:21:06"
+        }
+      },
+      "dir_folder_1_2": {
+        "name": "folder_1_2",
+        "type": "folder",
+        "size": 0,
+        "modif_date": "2025-10-21 14:54:04",
+        "fol_file_1_2_1": {
+          "name": "file_1_2_1",
+          "type": "file",
+          "size": 0,
+          "modif_date": "2025-10-21 14:54:04"
+        }
+      }
+    }
+  }
+}
