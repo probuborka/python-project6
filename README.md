@@ -23,6 +23,7 @@
 
 ```bash
 pip install python-docx
+```
 
 # 🎯 Использование
 
@@ -30,3 +31,4 @@ pip install python-docx
 
 ```bash
 python disk_analyzer.py --path <путь_к_директории> --report <путь_к_отчету>
+```
